@@ -1,1 +1,1 @@
-<img src="assets/logo_s.png" wight="150px">
+<img src="assets/logo_ss.png" wight="150px">
