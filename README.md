@@ -3,3 +3,4 @@
 </p>
 
 <h1>Hi, i'm Ivan 👋</h1>
+<p align="center">Python Developer • Telegram Bots • Web Automation</p>
