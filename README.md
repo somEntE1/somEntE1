@@ -1,1 +1,1 @@
-<img scr="assets/logo.png" width="150" alt="My logo">
+<img scr="https://raw.githubusercontent.com/somEntE1/somEntE1/main/assets/logo.png" width="150" alt="My logo">
