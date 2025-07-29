@@ -8,12 +8,12 @@
 
 ---
 
-<p align="center"> ### 🧠 About Me
+### 🧠 About Me
 
 - 💻 Self-taught Python developer
 - 🤖 Passionate about Telegram bots, Flask, and automation
 - 🔄 Currently learning FastAPI and async programming
-- 🛠 Building real-world tools and web services </p>
+- 🛠 Building real-world tools and web services
 
 ---
 
