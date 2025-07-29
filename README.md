@@ -1,1 +1,4 @@
-<img src="assets/logo_s.png" wight="150px">
+<picture>
+  <source srcset="logo_dark.png" media="(prefers-color-scheme: dark)">
+  <img src="logo_light.png" alt="Logo">
+</picture>
