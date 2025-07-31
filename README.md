@@ -51,7 +51,7 @@
 
 ### 📬 Contact
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: ivanginin14@gmail.com
 - 🌐 Website: [your-website.com](https://your-website.com)  
 - 🐙 GitHub: [@somEntE1](https://github.com/somEntE1)
 
