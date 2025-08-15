@@ -70,6 +70,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Marzban](https://img.shields.io/badge/Marzban-4CAF50?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAACEN3bzAAAAF0lEQVQYV2NggAKMgmEGAQYAAKkAAsn7LCsAAAAASUVORK5CYII=&logoColor=white)
+![3X-UI](https://img.shields.io/badge/3X--UI-008080?style=for-the-badge&logoColor=white)
+
 
 
 
