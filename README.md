@@ -75,6 +75,8 @@
 ![Marzban](https://img.shields.io/badge/Marzban-4CAF50?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAACEN3bzAAAAF0lEQVQYV2NggAKMgmEGAQYAAKkAAsn7LCsAAAAASUVORK5CYII=&logoColor=white)
 ![3X-UI](https://img.shields.io/badge/3X--UI-008080?style=for-the-badge&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
+![Windows CMD](https://img.shields.io/badge/CMD-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 
 
 
