@@ -93,9 +93,8 @@
 
 ### 📬 Contact
 
-- 📧 Email: ivanginin14@gmail.com
-- 🌐 Website: [your-website.com](https://your-website.com)  
-- 🐙 GitHub: [@somEntE1](https://github.com/somEntE1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanginin14@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@s0mEntE)
 
 ---
 
