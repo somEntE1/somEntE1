@@ -1,118 +1,110 @@
 <p align="center">
-  <img src="assets/logo_3d_x.png" alt="Logo" widht="250">
+  <img src="assets/logo_3d_x.png" alt="Logo" width="250">
 </p>
-
-<h1 align="center">Hi, i'm Ivan 👋</h1>
-<p align="center">Python Developer • Telegram Bots • Web Automation</p>
-
-
----
-
-### 🧠 About Me
-
-- 💻 Self-taught Python developer
-- 🤖 Passionate about Telegram bots, Flask, and automation
-- 🔄 Currently learning FastAPI and async programming
-- 🛠 Building real-world tools and web services
-
----
-
-### ⚙️ Tech Stack
-
-**Languages:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-**Databases:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-**DevOps:**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Operating System:**
-
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-
-**IDEs/Editors:**
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-**Others:**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-003B57?style=for-the-badge&logo=deepseek&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-29A0E3?style=for-the-badge&logo=ngrok&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Docs](https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Marzban](https://img.shields.io/badge/Marzban-4CAF50?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAACEN3bzAAAAF0lEQVQYV2NggAKMgmEGAQYAAKkAAsn7LCsAAAAASUVORK5CYII=&logoColor=white)
-![3X-UI](https://img.shields.io/badge/3X--UI-008080?style=for-the-badge&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
-![Windows CMD](https://img.shields.io/badge/CMD-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
-
-
-
-
-
----
-
-### 🚀 Projects
-
-| Name | Description | Tech | Link |
-|------|-------------|------|------|
-| 🛡️ VPN Telegram Bot | Продажа VPN-ключей с оплатой через Telegram и ЮKassa | Python, Flask, Telegram API | [GitHub Repo](https://github.com/YOUR_USERNAME/vpn-bot) |
-| 📋 To-Do App | CLI + Web To-Do Manager на Flask | Python, Flask | [Repo](https://github.com/YOUR_USERNAME/todo-app) |
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somEntE1&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somEntE1&layout=compact)
-
----
-
-### 📬 Contact
 
 <p align="center">
- <a href="https://t.me/@s0mEntE">
-   <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:ivanginin14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Backend+Developer;Python+%E2%86%92+Go+%E2%86%92+Systems" alt="Typing SVG">
 </p>
+
+## 🧠 About Me
+
+Self-taught developer focused on **backend development with Python**.
+
+I work with **FastAPI, Flask, SQLAlchemy, PostgreSQL, Docker and Linux**, 
+and also build frontend interfaces with **Vue 3**.
+
+My current direction:
+
+**Python → Go → Systems / Embedded → Rust**
 
 ---
 
-<p align="center">Thank you for visiting my profile 🙏</p>
+## ⚙️ Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
+### Embedded / IoT
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff)
+
+---
+
+## 🚀 Projects
+
+### 🛡️ VPN Telegram Shop
+
+Telegram bot for selling and manually processing VPN subscriptions.
+
+- Subscription plan selection
+- Payment through Ozon Donat Pay
+- Payment confirmation via screenshot
+- Manual payment verification
+- Subscription activation and renewal through the admin interface
+
+**Stack:** Python · Telegram Bot API · Flask
+
+[Repository](https://github.com/somEntE1)
+
+---
+
+### 🛡️ somEntE
+
+VPN shop web interface currently under development.
+
+- Subscription plans
+- VPN configuration links
+- User interface for purchasing a subscription
+- Backend API
+- Database integration
+
+**Stack:** Python · FastAPI · Vue 3 · PostgreSQL · SQLAlchemy
+
+[Repository](https://github.com/somEntE1)
+
+---
+
+### 📋 To-Do App
+
+Small web application created to practice backend and web development.
+
+**Stack:** Python · Flask · SQLite · HTML · CSS
+
+[Repository](https://github.com/somEntE1)
+
+---
+
+## 🧭 Roadmap
+
+```text
+Python
+   ↓
+Python + Go
+   ↓
+Systems / Embedded
+   ↓
+Rust
