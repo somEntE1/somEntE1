@@ -111,5 +111,5 @@ Rust
 ```
 
 <p align="center">
-  <img src="assets/roadmap">
+  <img src="assets/roadmap.png">
 </p>
