@@ -10,7 +10,7 @@
 
 Self-taught developer focused on **backend development with Python**.
 
-I work with **FastAPI, Flask, SQLAlchemy, PostgreSQL, Docker and Linux**, 
+I work with **FastAPI, SQLAlchemy, PostgreSQL, Docker and Linux**, 
 and also build frontend interfaces with **Vue 3**.
 
 My current direction:
@@ -66,7 +66,7 @@ Telegram bot for selling and manually processing VPN subscriptions.
 - Manual payment verification
 - Subscription activation and renewal through the admin interface
 
-**Stack:** Python · Telegram Bot API · Flask
+**Stack:** Python · Telegram Bot API · Aiogram
 
 [Repository](https://github.com/somEntE1)
 
@@ -108,3 +108,8 @@ Python + Go
 Systems / Embedded
    ↓
 Rust
+```
+
+<p align="center">
+  <img src="assets/roadmap">
+</p>
