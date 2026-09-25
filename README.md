@@ -25,7 +25,6 @@ My current direction:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff)
 
 ### Frontend
@@ -43,6 +42,7 @@ My current direction:
 ### Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![HAProxy](https://img.shields.io/badge/HAProxy-1A1A1A?logo=haproxy&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
