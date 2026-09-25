@@ -100,16 +100,6 @@ Small web application created to practice backend and web development.
 
 ## 🧭 Roadmap
 
-```text
-Python
-   ↓
-Python + Go
-   ↓
-Systems / Embedded
-   ↓
-Rust
-```
-
 <p align="center">
-  <img src="assets/roadmap.png">
+  <img src="assets/roadmap.png" alt="route" width="700">
 </p>
